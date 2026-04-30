@@ -1,0 +1,941 @@
+Period,Accomodation type,Travel,Tourists
+1/1/2012,Hotel,Domestic,735000
+2/1/2012,Hotel,Domestic,749000
+3/1/2012,Hotel,Domestic,889000
+4/1/2012,Hotel,Domestic,969000
+5/1/2012,Hotel,Domestic,1060000
+6/1/2012,Hotel,Domestic,1032000
+7/1/2012,Hotel,Domestic,1009000
+8/1/2012,Hotel,Domestic,1106000
+9/1/2012,Hotel,Domestic,1045000
+10/1/2012,Hotel,Domestic,1025000
+11/1/2012,Hotel,Domestic,859000
+12/1/2012,Hotel,Domestic,810000
+1/1/2013,Hotel,Domestic,698000
+2/1/2013,Hotel,Domestic,744000
+3/1/2013,Hotel,Domestic,881000
+4/1/2013,Hotel,Domestic,958000
+5/1/2013,Hotel,Domestic,1078000
+6/1/2013,Hotel,Domestic,1088000
+7/1/2013,Hotel,Domestic,1067000
+8/1/2013,Hotel,Domestic,1139000
+9/1/2013,Hotel,Domestic,1058000
+10/1/2013,Hotel,Domestic,1044000
+11/1/2013,Hotel,Domestic,897000
+12/1/2013,Hotel,Domestic,852000
+1/1/2014,Hotel,Domestic,745000
+2/1/2014,Hotel,Domestic,763000
+3/1/2014,Hotel,Domestic,971000
+4/1/2014,Hotel,Domestic,977000
+5/1/2014,Hotel,Domestic,1124000
+6/1/2014,Hotel,Domestic,1116000
+7/1/2014,Hotel,Domestic,1091000
+8/1/2014,Hotel,Domestic,1192000
+9/1/2014,Hotel,Domestic,1133000
+10/1/2014,Hotel,Domestic,1140000
+11/1/2014,Hotel,Domestic,967000
+12/1/2014,Hotel,Domestic,925000
+1/1/2015,Hotel,Domestic,775000
+2/1/2015,Hotel,Domestic,827000
+3/1/2015,Hotel,Domestic,916000
+4/1/2015,Hotel,Domestic,1025000
+5/1/2015,Hotel,Domestic,1169000
+6/1/2015,Hotel,Domestic,1121000
+7/1/2015,Hotel,Domestic,1119000
+8/1/2015,Hotel,Domestic,1220000
+9/1/2015,Hotel,Domestic,1111000
+10/1/2015,Hotel,Domestic,1165000
+11/1/2015,Hotel,Domestic,998000
+12/1/2015,Hotel,Domestic,964000
+1/1/2016,Hotel,Domestic,854000
+2/1/2016,Hotel,Domestic,913000
+3/1/2016,Hotel,Domestic,1030000
+4/1/2016,Hotel,Domestic,1103000
+5/1/2016,Hotel,Domestic,1228000
+6/1/2016,Hotel,Domestic,1191000
+7/1/2016,Hotel,Domestic,1205000
+8/1/2016,Hotel,Domestic,1274000
+9/1/2016,Hotel,Domestic,1212000
+10/1/2016,Hotel,Domestic,1252000
+11/1/2016,Hotel,Domestic,1067000
+12/1/2016,Hotel,Domestic,1020000
+1/1/2017,Hotel,Domestic,964000
+2/1/2017,Hotel,Domestic,936000
+3/1/2017,Hotel,Domestic,1100000
+4/1/2017,Hotel,Domestic,1229000
+5/1/2017,Hotel,Domestic,1295000
+6/1/2017,Hotel,Domestic,1316000
+7/1/2017,Hotel,Domestic,1324000
+8/1/2017,Hotel,Domestic,1382000
+9/1/2017,Hotel,Domestic,1288000
+10/1/2017,Hotel,Domestic,1316000
+11/1/2017,Hotel,Domestic,1106000
+12/1/2017,Hotel,Domestic,1162000
+1/1/2018,Hotel,Domestic,1028000
+2/1/2018,Hotel,Domestic,997000
+3/1/2018,Hotel,Domestic,1169000
+4/1/2018,Hotel,Domestic,1225000
+5/1/2018,Hotel,Domestic,1355000
+6/1/2018,Hotel,Domestic,1379000
+7/1/2018,Hotel,Domestic,1323000
+8/1/2018,Hotel,Domestic,1443000
+9/1/2018,Hotel,Domestic,1368000
+10/1/2018,Hotel,Domestic,1386000
+11/1/2018,Hotel,Domestic,1178000
+12/1/2018,Hotel,Domestic,1125000
+1/1/2019,Hotel,Domestic,966000
+2/1/2019,Hotel,Domestic,983000
+3/1/2019,Hotel,Domestic,1227000
+4/1/2019,Hotel,Domestic,1227000
+5/1/2019,Hotel,Domestic,1335000
+6/1/2019,Hotel,Domestic,1410000
+7/1/2019,Hotel,Domestic,1323000
+8/1/2019,Hotel,Domestic,1415000
+9/1/2019,Hotel,Domestic,1355000
+10/1/2019,Hotel,Domestic,1385000
+11/1/2019,Hotel,Domestic,1244000
+12/1/2019,Hotel,Domestic,1189000
+1/1/2020,Hotel,Domestic,1055000
+2/1/2020,Hotel,Domestic,1131000
+3/1/2020,Hotel,Domestic,571000
+4/1/2020,Hotel,Domestic,192000
+5/1/2020,Hotel,Domestic,401000
+6/1/2020,Hotel,Domestic,908000
+7/1/2020,Hotel,Domestic,1420000
+8/1/2020,Hotel,Domestic,1620000
+9/1/2020,Hotel,Domestic,1355000
+10/1/2020,Hotel,Domestic,985000
+11/1/2020,Hotel,Domestic,773000
+12/1/2020,Hotel,Domestic,649000
+1/1/2021,Hotel,Domestic,366000
+2/1/2021,Hotel,Domestic,549000
+3/1/2021,Hotel,Domestic,593000
+4/1/2021,Hotel,Domestic,791000
+5/1/2021,Hotel,Domestic,1258000
+6/1/2021,Hotel,Domestic,1346000
+7/1/2021,Hotel,Domestic,1633000
+1/1/2012,Hotel,International,563000
+2/1/2012,Hotel,International,583000
+3/1/2012,Hotel,International,735000
+4/1/2012,Hotel,International,974000
+5/1/2012,Hotel,International,953000
+6/1/2012,Hotel,International,902000
+7/1/2012,Hotel,International,949000
+8/1/2012,Hotel,International,983000
+9/1/2012,Hotel,International,910000
+10/1/2012,Hotel,International,842000
+11/1/2012,Hotel,International,743000
+12/1/2012,Hotel,International,587000
+1/1/2013,Hotel,International,576000
+2/1/2013,Hotel,International,567000
+3/1/2013,Hotel,International,784000
+4/1/2013,Hotel,International,920000
+5/1/2013,Hotel,International,1014000
+6/1/2013,Hotel,International,922000
+7/1/2013,Hotel,International,988000
+8/1/2013,Hotel,International,1040000
+9/1/2013,Hotel,International,912000
+10/1/2013,Hotel,International,892000
+11/1/2013,Hotel,International,775000
+12/1/2013,Hotel,International,627000
+1/1/2014,Hotel,International,631000
+2/1/2014,Hotel,International,670000
+3/1/2014,Hotel,International,839000
+4/1/2014,Hotel,International,1052000
+5/1/2014,Hotel,International,1078000
+6/1/2014,Hotel,International,1020000
+7/1/2014,Hotel,International,1086000
+8/1/2014,Hotel,International,1145000
+9/1/2014,Hotel,International,997000
+10/1/2014,Hotel,International,960000
+11/1/2014,Hotel,International,817000
+12/1/2014,Hotel,International,684000
+1/1/2015,Hotel,International,662000
+2/1/2015,Hotel,International,722000
+3/1/2015,Hotel,International,861000
+4/1/2015,Hotel,International,1126000
+5/1/2015,Hotel,International,1130000
+6/1/2015,Hotel,International,1078000
+7/1/2015,Hotel,International,1216000
+8/1/2015,Hotel,International,1225000
+9/1/2015,Hotel,International,1071000
+10/1/2015,Hotel,International,1034000
+11/1/2015,Hotel,International,886000
+12/1/2015,Hotel,International,754000
+1/1/2016,Hotel,International,755000
+2/1/2016,Hotel,International,828000
+3/1/2016,Hotel,International,1009000
+4/1/2016,Hotel,International,1126000
+5/1/2016,Hotel,International,1208000
+6/1/2016,Hotel,International,1086000
+7/1/2016,Hotel,International,1215000
+8/1/2016,Hotel,International,1232000
+9/1/2016,Hotel,International,1101000
+10/1/2016,Hotel,International,1096000
+11/1/2016,Hotel,International,920000
+12/1/2016,Hotel,International,833000
+1/1/2017,Hotel,International,819000
+2/1/2017,Hotel,International,872000
+3/1/2017,Hotel,International,1085000
+4/1/2017,Hotel,International,1392000
+5/1/2017,Hotel,International,1340000
+6/1/2017,Hotel,International,1317000
+7/1/2017,Hotel,International,1427000
+8/1/2017,Hotel,International,1385000
+9/1/2017,Hotel,International,1237000
+10/1/2017,Hotel,International,1261000
+11/1/2017,Hotel,International,1044000
+12/1/2017,Hotel,International,973000
+1/1/2018,Hotel,International,920000
+2/1/2018,Hotel,International,940000
+3/1/2018,Hotel,International,1161000
+4/1/2018,Hotel,International,1384000
+5/1/2018,Hotel,International,1393000
+6/1/2018,Hotel,International,1310000
+7/1/2018,Hotel,International,1477000
+8/1/2018,Hotel,International,1471000
+9/1/2018,Hotel,International,1293000
+10/1/2018,Hotel,International,1283000
+11/1/2018,Hotel,International,1076000
+12/1/2018,Hotel,International,965000
+1/1/2019,Hotel,International,943000
+2/1/2019,Hotel,International,1015000
+3/1/2019,Hotel,International,1250000
+4/1/2019,Hotel,International,1538000
+5/1/2019,Hotel,International,1410000
+6/1/2019,Hotel,International,1442000
+7/1/2019,Hotel,International,1530000
+8/1/2019,Hotel,International,1504000
+9/1/2019,Hotel,International,1308000
+10/1/2019,Hotel,International,1360000
+11/1/2019,Hotel,International,1163000
+12/1/2019,Hotel,International,1048000
+1/1/2020,Hotel,International,956000
+2/1/2020,Hotel,International,990000
+3/1/2020,Hotel,International,418000
+4/1/2020,Hotel,International,49000
+5/1/2020,Hotel,International,84000
+6/1/2020,Hotel,International,320000
+7/1/2020,Hotel,International,718000
+8/1/2020,Hotel,International,731000
+9/1/2020,Hotel,International,434000
+10/1/2020,Hotel,International,175000
+11/1/2020,Hotel,International,119000
+12/1/2020,Hotel,International,107000
+1/1/2021,Hotel,International,97000
+2/1/2021,Hotel,International,90000
+3/1/2021,Hotel,International,106000
+4/1/2021,Hotel,International,110000
+5/1/2021,Hotel,International,207000
+6/1/2021,Hotel,International,301000
+7/1/2021,Hotel,International,551000
+1/1/2012,Camping,Domestic,7000
+1/1/2012,Camping,International,5000
+2/1/2012,Camping,Domestic,7000
+2/1/2012,Camping,International,4000
+3/1/2012,Camping,Domestic,31000
+3/1/2012,Camping,International,11000
+4/1/2012,Camping,Domestic,223000
+4/1/2012,Camping,International,89000
+5/1/2012,Camping,Domestic,616000
+5/1/2012,Camping,International,114000
+6/1/2012,Camping,Domestic,431000
+6/1/2012,Camping,International,95000
+7/1/2012,Camping,Domestic,641000
+7/1/2012,Camping,International,149000
+8/1/2012,Camping,Domestic,793000
+8/1/2012,Camping,International,185000
+9/1/2012,Camping,Domestic,315000
+9/1/2012,Camping,International,66000
+10/1/2012,Camping,Domestic,146000
+10/1/2012,Camping,International,41000
+11/1/2012,Camping,Domestic,10000
+11/1/2012,Camping,International,9000
+12/1/2012,Camping,Domestic,8000
+12/1/2012,Camping,International,4000
+1/1/2013,Camping,Domestic,6000
+1/1/2013,Camping,International,4000
+2/1/2013,Camping,Domestic,6000
+2/1/2013,Camping,International,4000
+3/1/2013,Camping,Domestic,21000
+3/1/2013,Camping,International,15000
+4/1/2013,Camping,Domestic,166000
+4/1/2013,Camping,International,59000
+5/1/2013,Camping,Domestic,566000
+5/1/2013,Camping,International,126000
+6/1/2013,Camping,Domestic,439000
+6/1/2013,Camping,International,101000
+7/1/2013,Camping,Domestic,709000
+7/1/2013,Camping,International,162000
+8/1/2013,Camping,Domestic,788000
+8/1/2013,Camping,International,222000
+9/1/2013,Camping,Domestic,281000
+9/1/2013,Camping,International,69000
+10/1/2013,Camping,Domestic,121000
+10/1/2013,Camping,International,46000
+11/1/2013,Camping,Domestic,8000
+11/1/2013,Camping,International,9000
+12/1/2013,Camping,Domestic,8000
+12/1/2013,Camping,International,4000
+1/1/2014,Camping,Domestic,7000
+1/1/2014,Camping,International,6000
+2/1/2014,Camping,Domestic,5000
+2/1/2014,Camping,International,3000
+3/1/2014,Camping,Domestic,26000
+3/1/2014,Camping,International,16000
+4/1/2014,Camping,Domestic,210000
+4/1/2014,Camping,International,99000
+5/1/2014,Camping,Domestic,404000
+5/1/2014,Camping,International,72000
+6/1/2014,Camping,Domestic,595000
+6/1/2014,Camping,International,168000
+7/1/2014,Camping,Domestic,603000
+7/1/2014,Camping,International,153000
+8/1/2014,Camping,Domestic,722000
+8/1/2014,Camping,International,218000
+9/1/2014,Camping,Domestic,301000
+9/1/2014,Camping,International,77000
+10/1/2014,Camping,Domestic,134000
+10/1/2014,Camping,International,69000
+11/1/2014,Camping,Domestic,9000
+11/1/2014,Camping,International,11000
+12/1/2014,Camping,Domestic,7000
+12/1/2014,Camping,International,5000
+1/1/2015,Camping,Domestic,6000
+1/1/2015,Camping,International,6000
+2/1/2015,Camping,Domestic,8000
+2/1/2015,Camping,International,7000
+3/1/2015,Camping,Domestic,21000
+3/1/2015,Camping,International,15000
+4/1/2015,Camping,Domestic,154000
+4/1/2015,Camping,International,92000
+5/1/2015,Camping,Domestic,506000
+5/1/2015,Camping,International,145000
+6/1/2015,Camping,Domestic,393000
+6/1/2015,Camping,International,118000
+7/1/2015,Camping,Domestic,629000
+7/1/2015,Camping,International,188000
+8/1/2015,Camping,Domestic,756000
+8/1/2015,Camping,International,216000
+9/1/2015,Camping,Domestic,230000
+9/1/2015,Camping,International,69000
+10/1/2015,Camping,Domestic,126000
+10/1/2015,Camping,International,67000
+11/1/2015,Camping,Domestic,12000
+11/1/2015,Camping,International,11000
+12/1/2015,Camping,Domestic,10000
+12/1/2015,Camping,International,8000
+1/1/2016,Camping,Domestic,9000
+1/1/2016,Camping,International,9000
+2/1/2016,Camping,Domestic,6000
+2/1/2016,Camping,International,6000
+3/1/2016,Camping,Domestic,31000
+3/1/2016,Camping,International,30000
+4/1/2016,Camping,Domestic,152000
+4/1/2016,Camping,International,59000
+5/1/2016,Camping,Domestic,498000
+5/1/2016,Camping,International,165000
+6/1/2016,Camping,Domestic,340000
+6/1/2016,Camping,International,87000
+7/1/2016,Camping,Domestic,552000
+7/1/2016,Camping,International,191000
+8/1/2016,Camping,Domestic,784000
+8/1/2016,Camping,International,218000
+9/1/2016,Camping,Domestic,327000
+9/1/2016,Camping,International,98000
+10/1/2016,Camping,Domestic,131000
+10/1/2016,Camping,International,81000
+11/1/2016,Camping,Domestic,9000
+11/1/2016,Camping,International,13000
+12/1/2016,Camping,Domestic,10000
+12/1/2016,Camping,International,7000
+1/1/2017,Camping,Domestic,7000
+1/1/2017,Camping,International,8000
+2/1/2017,Camping,Domestic,5000
+2/1/2017,Camping,International,8000
+3/1/2017,Camping,Domestic,25000
+3/1/2017,Camping,International,20000
+4/1/2017,Camping,Domestic,177000
+4/1/2017,Camping,International,120000
+5/1/2017,Camping,Domestic,428000
+5/1/2017,Camping,International,113000
+6/1/2017,Camping,Domestic,432000
+6/1/2017,Camping,International,182000
+7/1/2017,Camping,Domestic,491000
+7/1/2017,Camping,International,192000
+8/1/2017,Camping,Domestic,668000
+8/1/2017,Camping,International,220000
+9/1/2017,Camping,Domestic,261000
+9/1/2017,Camping,International,87000
+10/1/2017,Camping,Domestic,112000
+10/1/2017,Camping,International,76000
+11/1/2017,Camping,Domestic,11000
+11/1/2017,Camping,International,21000
+12/1/2017,Camping,Domestic,8000
+12/1/2017,Camping,International,9000
+1/1/2018,Camping,Domestic,6000
+1/1/2018,Camping,International,9000
+2/1/2018,Camping,Domestic,8000
+2/1/2018,Camping,International,9000
+3/1/2018,Camping,Domestic,26000
+3/1/2018,Camping,International,27000
+4/1/2018,Camping,Domestic,188000
+4/1/2018,Camping,International,103000
+5/1/2018,Camping,Domestic,545000
+5/1/2018,Camping,International,198000
+6/1/2018,Camping,Domestic,370000
+6/1/2018,Camping,International,144000
+7/1/2018,Camping,Domestic,549000
+7/1/2018,Camping,International,234000
+8/1/2018,Camping,Domestic,694000
+8/1/2018,Camping,International,249000
+9/1/2018,Camping,Domestic,303000
+9/1/2018,Camping,International,111000
+10/1/2018,Camping,Domestic,126000
+10/1/2018,Camping,International,84000
+11/1/2018,Camping,Domestic,11000
+11/1/2018,Camping,International,17000
+12/1/2018,Camping,Domestic,11000
+12/1/2018,Camping,International,7000
+1/1/2019,Camping,Domestic,8000
+1/1/2019,Camping,International,9000
+2/1/2019,Camping,Domestic,9000
+2/1/2019,Camping,International,9000
+3/1/2019,Camping,Domestic,31000
+3/1/2019,Camping,International,23000
+4/1/2019,Camping,Domestic,245000
+4/1/2019,Camping,International,164000
+5/1/2019,Camping,Domestic,331000
+5/1/2019,Camping,International,96000
+6/1/2019,Camping,Domestic,603000
+6/1/2019,Camping,International,255000
+7/1/2019,Camping,Domestic,562000
+7/1/2019,Camping,International,247000
+8/1/2019,Camping,Domestic,728000
+8/1/2019,Camping,International,259000
+9/1/2019,Camping,Domestic,307000
+9/1/2019,Camping,International,115000
+10/1/2019,Camping,Domestic,106000
+10/1/2019,Camping,International,103000
+11/1/2019,Camping,Domestic,13000
+11/1/2019,Camping,International,22000
+12/1/2019,Camping,Domestic,9000
+12/1/2019,Camping,International,11000
+1/1/2020,Camping,Domestic,10000
+1/1/2020,Camping,International,12000
+2/1/2020,Camping,Domestic,9000
+2/1/2020,Camping,International,12000
+3/1/2020,Camping,Domestic,14000
+3/1/2020,Camping,International,10000
+4/1/2020,Camping,Domestic,30000
+4/1/2020,Camping,International,3000
+5/1/2020,Camping,Domestic,147000
+5/1/2020,Camping,International,19000
+6/1/2020,Camping,Domestic,350000
+6/1/2020,Camping,International,90000
+7/1/2020,Camping,Domestic,747000
+7/1/2020,Camping,International,205000
+8/1/2020,Camping,Domestic,992000
+8/1/2020,Camping,International,186000
+9/1/2020,Camping,Domestic,421000
+9/1/2020,Camping,International,110000
+10/1/2020,Camping,Domestic,121000
+10/1/2020,Camping,International,29000
+11/1/2020,Camping,Domestic,16000
+11/1/2020,Camping,International,4000
+12/1/2020,Camping,Domestic,10000
+12/1/2020,Camping,International,1000
+1/1/2021,Camping,Domestic,8000
+1/1/2021,Camping,International,2000
+2/1/2021,Camping,Domestic,15000
+2/1/2021,Camping,International,2000
+3/1/2021,Camping,Domestic,21000
+3/1/2021,Camping,International,3000
+4/1/2021,Camping,Domestic,206000
+4/1/2021,Camping,International,9000
+5/1/2021,Camping,Domestic,649000
+5/1/2021,Camping,International,26000
+6/1/2021,Camping,Domestic,605000
+6/1/2021,Camping,International,66000
+7/1/2021,Camping,Domestic,742000
+7/1/2021,Camping,International,135000
+1/1/2012,Holiday park,International,77000
+2/1/2012,Holiday park,International,69000
+3/1/2012,Holiday park,International,84000
+4/1/2012,Holiday park,International,251000
+5/1/2012,Holiday park,International,130000
+6/1/2012,Holiday park,International,142000
+7/1/2012,Holiday park,International,185000
+8/1/2012,Holiday park,International,193000
+9/1/2012,Holiday park,International,115000
+10/1/2012,Holiday park,International,193000
+11/1/2012,Holiday park,International,121000
+12/1/2012,Holiday park,International,65000
+1/1/2013,Holiday park,International,72000
+2/1/2013,Holiday park,International,73000
+3/1/2013,Holiday park,International,128000
+4/1/2013,Holiday park,International,223000
+5/1/2013,Holiday park,International,185000
+6/1/2013,Holiday park,International,147000
+7/1/2013,Holiday park,International,194000
+8/1/2013,Holiday park,International,264000
+9/1/2013,Holiday park,International,166000
+10/1/2013,Holiday park,International,187000
+11/1/2013,Holiday park,International,157000
+12/1/2013,Holiday park,International,75000
+1/1/2014,Holiday park,International,77000
+2/1/2014,Holiday park,International,64000
+3/1/2014,Holiday park,International,113000
+4/1/2014,Holiday park,International,292000
+5/1/2014,Holiday park,International,128000
+6/1/2014,Holiday park,International,218000
+7/1/2014,Holiday park,International,198000
+8/1/2014,Holiday park,International,273000
+9/1/2014,Holiday park,International,173000
+10/1/2014,Holiday park,International,261000
+11/1/2014,Holiday park,International,102000
+12/1/2014,Holiday park,International,77000
+1/1/2015,Holiday park,International,93000
+2/1/2015,Holiday park,International,100000
+3/1/2015,Holiday park,International,116000
+4/1/2015,Holiday park,International,325000
+5/1/2015,Holiday park,International,211000
+6/1/2015,Holiday park,International,185000
+7/1/2015,Holiday park,International,262000
+8/1/2015,Holiday park,International,292000
+9/1/2015,Holiday park,International,164000
+10/1/2015,Holiday park,International,247000
+11/1/2015,Holiday park,International,142000
+12/1/2015,Holiday park,International,85000
+1/1/2016,Holiday park,International,99000
+2/1/2016,Holiday park,International,112000
+3/1/2016,Holiday park,International,178000
+4/1/2016,Holiday park,International,251000
+5/1/2016,Holiday park,International,257000
+6/1/2016,Holiday park,International,169000
+7/1/2016,Holiday park,International,308000
+8/1/2016,Holiday park,International,283000
+9/1/2016,Holiday park,International,202000
+10/1/2016,Holiday park,International,299000
+11/1/2016,Holiday park,International,139000
+12/1/2016,Holiday park,International,90000
+1/1/2017,Holiday park,International,123000
+2/1/2017,Holiday park,International,105000
+3/1/2017,Holiday park,International,118000
+4/1/2017,Holiday park,International,391000
+5/1/2017,Holiday park,International,219000
+6/1/2017,Holiday park,International,279000
+7/1/2017,Holiday park,International,329000
+8/1/2017,Holiday park,International,288000
+9/1/2017,Holiday park,International,213000
+10/1/2017,Holiday park,International,304000
+11/1/2017,Holiday park,International,169000
+12/1/2017,Holiday park,International,95000
+1/1/2018,Holiday park,International,118000
+2/1/2018,Holiday park,International,119000
+3/1/2018,Holiday park,International,207000
+4/1/2018,Holiday park,International,330000
+5/1/2018,Holiday park,International,280000
+6/1/2018,Holiday park,International,253000
+7/1/2018,Holiday park,International,358000
+8/1/2018,Holiday park,International,311000
+9/1/2018,Holiday park,International,211000
+10/1/2018,Holiday park,International,312000
+11/1/2018,Holiday park,International,188000
+12/1/2018,Holiday park,International,104000
+1/1/2019,Holiday park,International,128000
+2/1/2019,Holiday park,International,107000
+3/1/2019,Holiday park,International,187000
+4/1/2019,Holiday park,International,459000
+5/1/2019,Holiday park,International,208000
+6/1/2019,Holiday park,International,333000
+7/1/2019,Holiday park,International,393000
+8/1/2019,Holiday park,International,386000
+9/1/2019,Holiday park,International,270000
+10/1/2019,Holiday park,International,371000
+11/1/2019,Holiday park,International,232000
+12/1/2019,Holiday park,International,122000
+1/1/2020,Holiday park,International,159000
+2/1/2020,Holiday park,International,158000
+3/1/2020,Holiday park,International,88000
+4/1/2020,Holiday park,International,11000
+5/1/2020,Holiday park,International,27000
+6/1/2020,Holiday park,International,163000
+7/1/2020,Holiday park,International,315000
+8/1/2020,Holiday park,International,226000
+9/1/2020,Holiday park,International,178000
+10/1/2020,Holiday park,International,82000
+11/1/2020,Holiday park,International,19000
+12/1/2020,Holiday park,International,14000
+1/1/2021,Holiday park,International,14000
+2/1/2021,Holiday park,International,42000
+3/1/2021,Holiday park,International,15000
+4/1/2021,Holiday park,International,22000
+5/1/2021,Holiday park,International,34000
+6/1/2021,Holiday park,International,73000
+7/1/2021,Holiday park,International,230000
+1/1/2012,Holiday park,Domestic,328000
+2/1/2012,Holiday park,Domestic,331000
+3/1/2012,Holiday park,Domestic,364000
+4/1/2012,Holiday park,Domestic,496000
+5/1/2012,Holiday park,Domestic,564000
+6/1/2012,Holiday park,Domestic,450000
+7/1/2012,Holiday park,Domestic,473000
+8/1/2012,Holiday park,Domestic,539000
+9/1/2012,Holiday park,Domestic,428000
+10/1/2012,Holiday park,Domestic,537000
+11/1/2012,Holiday park,Domestic,373000
+12/1/2012,Holiday park,Domestic,374000
+1/1/2013,Holiday park,Domestic,283000
+2/1/2013,Holiday park,Domestic,351000
+3/1/2013,Holiday park,Domestic,338000
+4/1/2013,Holiday park,Domestic,453000
+5/1/2013,Holiday park,Domestic,637000
+6/1/2013,Holiday park,Domestic,433000
+7/1/2013,Holiday park,Domestic,509000
+8/1/2013,Holiday park,Domestic,598000
+9/1/2013,Holiday park,Domestic,486000
+10/1/2013,Holiday park,Domestic,511000
+11/1/2013,Holiday park,Domestic,363000
+12/1/2013,Holiday park,Domestic,397000
+1/1/2014,Holiday park,Domestic,304000
+2/1/2014,Holiday park,Domestic,342000
+3/1/2014,Holiday park,Domestic,377000
+4/1/2014,Holiday park,Domestic,417000
+5/1/2014,Holiday park,Domestic,634000
+6/1/2014,Holiday park,Domestic,534000
+7/1/2014,Holiday park,Domestic,442000
+8/1/2014,Holiday park,Domestic,595000
+9/1/2014,Holiday park,Domestic,494000
+10/1/2014,Holiday park,Domestic,582000
+11/1/2014,Holiday park,Domestic,351000
+12/1/2014,Holiday park,Domestic,374000
+1/1/2015,Holiday park,Domestic,300000
+2/1/2015,Holiday park,Domestic,397000
+3/1/2015,Holiday park,Domestic,376000
+4/1/2015,Holiday park,Domestic,433000
+5/1/2015,Holiday park,Domestic,680000
+6/1/2015,Holiday park,Domestic,506000
+7/1/2015,Holiday park,Domestic,535000
+8/1/2015,Holiday park,Domestic,595000
+9/1/2015,Holiday park,Domestic,467000
+10/1/2015,Holiday park,Domestic,626000
+11/1/2015,Holiday park,Domestic,409000
+12/1/2015,Holiday park,Domestic,389000
+1/1/2016,Holiday park,Domestic,275000
+2/1/2016,Holiday park,Domestic,418000
+3/1/2016,Holiday park,Domestic,364000
+4/1/2016,Holiday park,Domestic,478000
+5/1/2016,Holiday park,Domestic,630000
+6/1/2016,Holiday park,Domestic,465000
+7/1/2016,Holiday park,Domestic,494000
+8/1/2016,Holiday park,Domestic,616000
+9/1/2016,Holiday park,Domestic,526000
+10/1/2016,Holiday park,Domestic,612000
+11/1/2016,Holiday park,Domestic,352000
+12/1/2016,Holiday park,Domestic,362000
+1/1/2017,Holiday park,Domestic,374000
+2/1/2017,Holiday park,Domestic,348000
+3/1/2017,Holiday park,Domestic,425000
+4/1/2017,Holiday park,Domestic,503000
+5/1/2017,Holiday park,Domestic,637000
+6/1/2017,Holiday park,Domestic,541000
+7/1/2017,Holiday park,Domestic,510000
+8/1/2017,Holiday park,Domestic,589000
+9/1/2017,Holiday park,Domestic,533000
+10/1/2017,Holiday park,Domestic,619000
+11/1/2017,Holiday park,Domestic,385000
+12/1/2017,Holiday park,Domestic,395000
+1/1/2018,Holiday park,Domestic,360000
+2/1/2018,Holiday park,Domestic,365000
+3/1/2018,Holiday park,Domestic,451000
+4/1/2018,Holiday park,Domestic,524000
+5/1/2018,Holiday park,Domestic,605000
+6/1/2018,Holiday park,Domestic,530000
+7/1/2018,Holiday park,Domestic,474000
+8/1/2018,Holiday park,Domestic,641000
+9/1/2018,Holiday park,Domestic,479000
+10/1/2018,Holiday park,Domestic,624000
+11/1/2018,Holiday park,Domestic,399000
+12/1/2018,Holiday park,Domestic,420000
+1/1/2019,Holiday park,Domestic,345000
+2/1/2019,Holiday park,Domestic,384000
+3/1/2019,Holiday park,Domestic,483000
+4/1/2019,Holiday park,Domestic,547000
+5/1/2019,Holiday park,Domestic,621000
+6/1/2019,Holiday park,Domestic,613000
+7/1/2019,Holiday park,Domestic,506000
+8/1/2019,Holiday park,Domestic,700000
+9/1/2019,Holiday park,Domestic,576000
+10/1/2019,Holiday park,Domestic,602000
+11/1/2019,Holiday park,Domestic,427000
+12/1/2019,Holiday park,Domestic,476000
+1/1/2020,Holiday park,Domestic,371000
+2/1/2020,Holiday park,Domestic,451000
+3/1/2020,Holiday park,Domestic,281000
+4/1/2020,Holiday park,Domestic,68000
+5/1/2020,Holiday park,Domestic,231000
+6/1/2020,Holiday park,Domestic,530000
+7/1/2020,Holiday park,Domestic,691000
+8/1/2020,Holiday park,Domestic,881000
+9/1/2020,Holiday park,Domestic,644000
+10/1/2020,Holiday park,Domestic,691000
+11/1/2020,Holiday park,Domestic,333000
+12/1/2020,Holiday park,Domestic,371000
+1/1/2021,Holiday park,Domestic,286000
+2/1/2021,Holiday park,Domestic,490000
+3/1/2021,Holiday park,Domestic,424000
+4/1/2021,Holiday park,Domestic,617000
+5/1/2021,Holiday park,Domestic,965000
+6/1/2021,Holiday park,Domestic,725000
+7/1/2021,Holiday park,Domestic,777000
+1/1/2012,Group accomodations,Domestic,46000
+1/1/2012,Group accomodations,International,2000
+2/1/2012,Group accomodations,Domestic,46000
+2/1/2012,Group accomodations,International,1000
+3/1/2012,Group accomodations,Domestic,80000
+3/1/2012,Group accomodations,International,3000
+4/1/2012,Group accomodations,Domestic,139000
+4/1/2012,Group accomodations,International,8000
+5/1/2012,Group accomodations,Domestic,181000
+5/1/2012,Group accomodations,International,11000
+6/1/2012,Group accomodations,Domestic,230000
+6/1/2012,Group accomodations,International,8000
+7/1/2012,Group accomodations,Domestic,102000
+7/1/2012,Group accomodations,International,14000
+8/1/2012,Group accomodations,Domestic,116000
+8/1/2012,Group accomodations,International,17000
+9/1/2012,Group accomodations,Domestic,197000
+9/1/2012,Group accomodations,International,7000
+10/1/2012,Group accomodations,Domestic,120000
+10/1/2012,Group accomodations,International,7000
+11/1/2012,Group accomodations,Domestic,68000
+11/1/2012,Group accomodations,International,3000
+12/1/2012,Group accomodations,Domestic,48000
+12/1/2012,Group accomodations,International,3000
+1/1/2013,Group accomodations,Domestic,49000
+1/1/2013,Group accomodations,International,2000
+2/1/2013,Group accomodations,Domestic,45000
+2/1/2013,Group accomodations,International,1000
+3/1/2013,Group accomodations,Domestic,71000
+3/1/2013,Group accomodations,International,4000
+4/1/2013,Group accomodations,Domestic,130000
+4/1/2013,Group accomodations,International,5000
+5/1/2013,Group accomodations,Domestic,181000
+5/1/2013,Group accomodations,International,9000
+6/1/2013,Group accomodations,Domestic,197000
+6/1/2013,Group accomodations,International,6000
+7/1/2013,Group accomodations,Domestic,90000
+7/1/2013,Group accomodations,International,17000
+8/1/2013,Group accomodations,Domestic,115000
+8/1/2013,Group accomodations,International,15000
+9/1/2013,Group accomodations,Domestic,180000
+9/1/2013,Group accomodations,International,4000
+10/1/2013,Group accomodations,Domestic,115000
+10/1/2013,Group accomodations,International,6000
+11/1/2013,Group accomodations,Domestic,66000
+11/1/2013,Group accomodations,International,2000
+12/1/2013,Group accomodations,Domestic,48000
+12/1/2013,Group accomodations,International,1000
+1/1/2014,Group accomodations,Domestic,54000
+1/1/2014,Group accomodations,International,1000
+2/1/2014,Group accomodations,Domestic,47000
+2/1/2014,Group accomodations,International,1000
+3/1/2014,Group accomodations,Domestic,67000
+3/1/2014,Group accomodations,International,2000
+4/1/2014,Group accomodations,Domestic,110000
+4/1/2014,Group accomodations,International,6000
+5/1/2014,Group accomodations,Domestic,182000
+5/1/2014,Group accomodations,International,5000
+6/1/2014,Group accomodations,Domestic,209000
+6/1/2014,Group accomodations,International,8000
+7/1/2014,Group accomodations,Domestic,109000
+7/1/2014,Group accomodations,International,17000
+8/1/2014,Group accomodations,Domestic,118000
+8/1/2014,Group accomodations,International,18000
+9/1/2014,Group accomodations,Domestic,186000
+9/1/2014,Group accomodations,International,6000
+10/1/2014,Group accomodations,Domestic,119000
+10/1/2014,Group accomodations,International,5000
+11/1/2014,Group accomodations,Domestic,73000
+11/1/2014,Group accomodations,International,1000
+12/1/2014,Group accomodations,Domestic,45000
+12/1/2014,Group accomodations,International,1000
+1/1/2015,Group accomodations,Domestic,45000
+1/1/2015,Group accomodations,International,1000
+2/1/2015,Group accomodations,Domestic,44000
+2/1/2015,Group accomodations,International,1000
+3/1/2015,Group accomodations,Domestic,64000
+3/1/2015,Group accomodations,International,3000
+4/1/2015,Group accomodations,Domestic,112000
+4/1/2015,Group accomodations,International,5000
+5/1/2015,Group accomodations,Domestic,186000
+5/1/2015,Group accomodations,International,8000
+6/1/2015,Group accomodations,Domestic,210000
+6/1/2015,Group accomodations,International,6000
+7/1/2015,Group accomodations,Domestic,113000
+7/1/2015,Group accomodations,International,18000
+8/1/2015,Group accomodations,Domestic,130000
+8/1/2015,Group accomodations,International,17000
+9/1/2015,Group accomodations,Domestic,197000
+9/1/2015,Group accomodations,International,7000
+10/1/2015,Group accomodations,Domestic,129000
+10/1/2015,Group accomodations,International,7000
+11/1/2015,Group accomodations,Domestic,61000
+11/1/2015,Group accomodations,International,1000
+12/1/2015,Group accomodations,Domestic,46000
+12/1/2015,Group accomodations,International,2000
+1/1/2016,Group accomodations,Domestic,46000
+1/1/2016,Group accomodations,International,2000
+2/1/2016,Group accomodations,Domestic,37000
+2/1/2016,Group accomodations,International,2000
+3/1/2016,Group accomodations,Domestic,59000
+3/1/2016,Group accomodations,International,3000
+4/1/2016,Group accomodations,Domestic,106000
+4/1/2016,Group accomodations,International,4000
+5/1/2016,Group accomodations,Domestic,172000
+5/1/2016,Group accomodations,International,8000
+6/1/2016,Group accomodations,Domestic,183000
+6/1/2016,Group accomodations,International,7000
+7/1/2016,Group accomodations,Domestic,104000
+7/1/2016,Group accomodations,International,15000
+8/1/2016,Group accomodations,Domestic,107000
+8/1/2016,Group accomodations,International,14000
+9/1/2016,Group accomodations,Domestic,204000
+9/1/2016,Group accomodations,International,5000
+10/1/2016,Group accomodations,Domestic,138000
+10/1/2016,Group accomodations,International,7000
+11/1/2016,Group accomodations,Domestic,70000
+11/1/2016,Group accomodations,International,2000
+12/1/2016,Group accomodations,Domestic,40000
+12/1/2016,Group accomodations,International,3000
+1/1/2017,Group accomodations,Domestic,54000
+1/1/2017,Group accomodations,International,3000
+2/1/2017,Group accomodations,Domestic,49000
+2/1/2017,Group accomodations,International,3000
+3/1/2017,Group accomodations,Domestic,72000
+3/1/2017,Group accomodations,International,3000
+4/1/2017,Group accomodations,Domestic,123000
+4/1/2017,Group accomodations,International,7000
+5/1/2017,Group accomodations,Domestic,177000
+5/1/2017,Group accomodations,International,7000
+6/1/2017,Group accomodations,Domestic,209000
+6/1/2017,Group accomodations,International,8000
+7/1/2017,Group accomodations,Domestic,124000
+7/1/2017,Group accomodations,International,19000
+8/1/2017,Group accomodations,Domestic,113000
+8/1/2017,Group accomodations,International,17000
+9/1/2017,Group accomodations,Domestic,212000
+9/1/2017,Group accomodations,International,6000
+10/1/2017,Group accomodations,Domestic,130000
+10/1/2017,Group accomodations,International,5000
+11/1/2017,Group accomodations,Domestic,80000
+11/1/2017,Group accomodations,International,3000
+12/1/2017,Group accomodations,Domestic,65000
+12/1/2017,Group accomodations,International,4000
+1/1/2018,Group accomodations,Domestic,57000
+1/1/2018,Group accomodations,International,6000
+2/1/2018,Group accomodations,Domestic,47000
+2/1/2018,Group accomodations,International,5000
+3/1/2018,Group accomodations,Domestic,87000
+3/1/2018,Group accomodations,International,6000
+4/1/2018,Group accomodations,Domestic,136000
+4/1/2018,Group accomodations,International,17000
+5/1/2018,Group accomodations,Domestic,180000
+5/1/2018,Group accomodations,International,11000
+6/1/2018,Group accomodations,Domestic,214000
+6/1/2018,Group accomodations,International,11000
+7/1/2018,Group accomodations,Domestic,110000
+7/1/2018,Group accomodations,International,20000
+8/1/2018,Group accomodations,Domestic,117000
+8/1/2018,Group accomodations,International,20000
+9/1/2018,Group accomodations,Domestic,215000
+9/1/2018,Group accomodations,International,10000
+10/1/2018,Group accomodations,Domestic,142000
+10/1/2018,Group accomodations,International,10000
+11/1/2018,Group accomodations,Domestic,85000
+11/1/2018,Group accomodations,International,6000
+12/1/2018,Group accomodations,Domestic,57000
+12/1/2018,Group accomodations,International,4000
+1/1/2019,Group accomodations,Domestic,57000
+1/1/2019,Group accomodations,International,2000
+2/1/2019,Group accomodations,Domestic,55000
+2/1/2019,Group accomodations,International,3000
+3/1/2019,Group accomodations,Domestic,84000
+3/1/2019,Group accomodations,International,5000
+4/1/2019,Group accomodations,Domestic,114000
+4/1/2019,Group accomodations,International,13000
+5/1/2019,Group accomodations,Domestic,185000
+5/1/2019,Group accomodations,International,7000
+6/1/2019,Group accomodations,Domestic,226000
+6/1/2019,Group accomodations,International,13000
+7/1/2019,Group accomodations,Domestic,123000
+7/1/2019,Group accomodations,International,20000
+8/1/2019,Group accomodations,Domestic,129000
+8/1/2019,Group accomodations,International,21000
+9/1/2019,Group accomodations,Domestic,229000
+9/1/2019,Group accomodations,International,7000
+10/1/2019,Group accomodations,Domestic,150000
+10/1/2019,Group accomodations,International,10000
+11/1/2019,Group accomodations,Domestic,87000
+11/1/2019,Group accomodations,International,4000
+12/1/2019,Group accomodations,Domestic,59000
+12/1/2019,Group accomodations,International,4000
+1/1/2020,Group accomodations,Domestic,53000
+1/1/2020,Group accomodations,International,6000
+2/1/2020,Group accomodations,Domestic,56000
+2/1/2020,Group accomodations,International,4000
+3/1/2020,Group accomodations,Domestic,40000
+3/1/2020,Group accomodations,International,3000
+4/1/2020,Group accomodations,Domestic,10000
+4/1/2020,Group accomodations,International,0
+5/1/2020,Group accomodations,Domestic,14000
+5/1/2020,Group accomodations,International,0
+6/1/2020,Group accomodations,Domestic,31000
+6/1/2020,Group accomodations,International,2000
+7/1/2020,Group accomodations,Domestic,84000
+7/1/2020,Group accomodations,International,11000
+8/1/2020,Group accomodations,Domestic,95000
+8/1/2020,Group accomodations,International,9000
+9/1/2020,Group accomodations,Domestic,89000
+9/1/2020,Group accomodations,International,3000
+10/1/2020,Group accomodations,Domestic,40000
+10/1/2020,Group accomodations,International,1000
+11/1/2020,Group accomodations,Domestic,23000
+11/1/2020,Group accomodations,International,2000
+12/1/2020,Group accomodations,Domestic,28000
+12/1/2020,Group accomodations,International,1000
+1/1/2021,Group accomodations,Domestic,4000
+1/1/2021,Group accomodations,International,2000
+2/1/2021,Group accomodations,Domestic,5000
+2/1/2021,Group accomodations,International,2000
+3/1/2021,Group accomodations,Domestic,9000
+3/1/2021,Group accomodations,International,2000
+4/1/2021,Group accomodations,Domestic,26000
+4/1/2021,Group accomodations,International,2000
+5/1/2021,Group accomodations,Domestic,47000
+5/1/2021,Group accomodations,International,1000
+6/1/2021,Group accomodations,Domestic,106000
+6/1/2021,Group accomodations,International,2000
+7/1/2021,Group accomodations,Domestic,107000
+7/1/2021,Group accomodations,International,7000
+1/1/2021,Hotel,Domestic,5000
+2/1/2021,Hotel,International,200
+3/1/2021,Holiday Park,Domestic,9500
+4/1/2021,Camping,Domestic,12000
+5/1/2021,Hotel,International,150
+6/1/2021,Holiday Park,International,300
+7/1/2021,Camping,Domestic,18000
+8/1/2021,Hotel,Domestic,20000
+9/1/2021,Holiday Park,Domestic,4000
+10/1/2021,Camping,International,250
+11/1/2021,Hotel,Domestic,3500
+12/1/2021,Holiday Park,Domestic,22000
+1/1/2022,Camping,Domestic,3000
+2/1/2022,Hotel,International,100
+3/1/2022,Holiday Park,Domestic,14000
+4/1/2022,Camping,Domestic,16000
+5/1/2022,Hotel,Domestic,25000
+6/1/2022,Holiday Park,International,500
+7/1/2022,Camping,Domestic,21000
+8/1/2022,Hotel,International,300
